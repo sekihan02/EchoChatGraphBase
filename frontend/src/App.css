@@ -57,3 +57,21 @@ button {
 button:hover {
     background-color: #003d7e;
 }
+
+.message-input {
+    background-color: #f0f0f0;
+    /* gray for inputs */
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.message-output {
+    background-color: #d0e8f2;
+    /* blue for outputs */
+    /* color: white; */
+    /* ensuring text is readable */
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}

@@ -8,7 +8,8 @@
     "react-scripts": "latest",
     "react-force-graph": "latest",
     "three": "latest",
-    "@tweenjs/tween.js": "latest"
+    "@tweenjs/tween.js": "latest",
+    "d3": "^6.2.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.x",
